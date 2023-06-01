@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+### Developer of embedded and applicaion software 👨‍💻
+
+## My contacts:
+<a href="https://t.me/AndreyNikolaevichPerm"><img src="C:\Users\79194\Desktop\Telegram.svg" alt="Telegram"></a>
+
 
 <!--
 **AndreyNicolevich/AndreyNicolevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
